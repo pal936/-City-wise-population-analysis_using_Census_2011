@@ -1,6 +1,6 @@
 # -City-wise-population-analysis_using_Census_2011
 INTRODUCTION
-•The Census of India conducted every 10 year's.
+•The Census of India conducted every 10 year's in India.
 
 •First census Started in 1871. The word 'Census' came in the Latin word 'Censere' and the 'Censere' meaning to assess. Or other word Census meaning 'an official count or survey, especially of a population'.
 
